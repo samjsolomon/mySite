@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  background-color: #e6f9ff;
+  font-family: 'Gelasio', serif;
+  text-align: center;
+}
+
+h1 {
+  color: #66bfbf;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+    color: #66bfbf;
+}
+
+h3{
+    color: #66bfbf;
+}
+hr{
+  margin: 30px auto;
+
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 5%;
+}
+
+a{
+  color: #e6f9ff;
+  margin: 10px;
+  text-decoration: none;
+}
+a:hover{
+  color: grey;
+}
+
+.skill-row {
+
+  margin: 100px auto 100px;
+  text-align: left;
+  width: 50%;
+  line-height: 2;
+}
+
+.boy-img {
+  width: 15%;
+  height: 15%;
+
+}
+
+.simpsons-gif {
+  width: 50%;
+  height: 50%;
+  float: left;
+  margin-right: 20px;
+}
+
+.phone-img {
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-left: 20px;
+
+}
+.mountain-img {
+  margin-top: 50px;
+}
+
+.top-container {
+  background-color: #e6f9ff;
+  position: relative;
+  padding-top: 100px;
+  margin: 0;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.middle-container{
+
+    margin-top: 100px;
+}
+.btn {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background-color:#66bfbf;
+	border-radius:6px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:italic;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin-bottom: 20px;
+}
+.btn:hover {
+	background-color:#757ed6;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+  font-family: 'Montserrat', sans-serif;
+  padding: 50px 0px 20px;
+}
+
+.copyright{
+  margin: 10px;
+  font-size: 10%;
+}
